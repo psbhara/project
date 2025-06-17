@@ -39,12 +39,12 @@ const Header: React.FC = () => {
           {/* K.R. Mangalam University Logo - Made Bigger */}
           <div className="flex items-center gap-4">
             <img
-              src="/src/assets/krmu.png"
+              src="https://raw.githubusercontent.com/psbhara/img/refs/heads/main/krmu.png"
               alt="K.R. Mangalam University Logo"
               className="w-20 h-20 md:w-24 md:h-24 object-contain"
             />
             <img
-              src="/src/assets/csi_logo.png"
+              src="https://raw.githubusercontent.com/psbhara/img/refs/heads/main/csi.png"
               alt="CSI Logo"
               className="w-12 h-12 md:w-14 md:h-14 object-contain"
             />

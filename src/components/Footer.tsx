@@ -122,7 +122,7 @@ const Footer: React.FC = () => {
             {/* Footer Logos - Made KRMU Logo Bigger */}
             <div className="flex items-center gap-4">
               <img 
-                src="/src/assets/krmu.png" 
+                src="https://raw.githubusercontent.com/psbhara/img/refs/heads/main/krmu.png" 
                 alt="K.R. Mangalam University Logo" 
                 className="w-12 h-12 object-contain bg-white rounded p-1"
               />
